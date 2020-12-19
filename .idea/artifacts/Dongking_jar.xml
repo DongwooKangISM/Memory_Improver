@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Dongking:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Dongking_jar</output-path>
+    <root id="archive" name="Dongking.jar">
+      <element id="module-output" name="Dongking" />
+    </root>
+  </artifact>
+</component>
